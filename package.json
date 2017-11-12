@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "google-images": "^2.1.0",
+    "kraken": "^0.3.3",
     "needle": "^2.0.1",
+    "node-libcurl": "^1.2.0",
+    "node-wget": "^0.4.2",
     "tress": "^1.0.5"
   }
 }
